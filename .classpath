@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_291">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.glassfish.tools.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Librerias/cdi-api-2.0.SP1.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/eclipselink.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/jakarta.persistence-api-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/javax.faces-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/javax-inject.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Librerias/postgresql-9.4-1201.jdbc4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
